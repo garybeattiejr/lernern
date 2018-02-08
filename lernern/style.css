@@ -1,0 +1,11 @@
+body, html {
+    background-color: #D9FFF5;
+    }
+
+.container {
+    background: linear-gradient(to bottom right, #B9F5D8, #D9FFF5);   
+}
+
+h1 {
+    color: #1D1E18;
+}
